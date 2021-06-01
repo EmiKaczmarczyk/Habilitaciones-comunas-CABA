@@ -8,8 +8,4 @@ La notebook 'Dash.ipynb' muestra el código para generar la presentación en DAS
 
 Ver Heroku en: https://prueba-dash-comunas.herokuapp.com
 
-Integrantes:
--Emilia Kaczmarczyk
--Sergio Fasan
--Pablo Barco
--Martín Rodríguez
+Integrantes: Emilia Kaczmarczyk, Sergio Fasan, Pablo Barco, Martín Rodríguez.
